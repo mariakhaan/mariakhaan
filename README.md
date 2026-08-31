@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mariakhaan">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Maria" alt="Hello! I&#39;m Maria" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ff9bce&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Maria" alt="Hello! I&#39;m Maria" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=580&height=44&lines=I%20love%20gamedev%2C%20data%2C%20and%20product%20%3C3" alt="Typing headlines" />
 </p>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,17 +36,14 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mariakhaan&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mariakhaan&layout=compact&theme=tokyonight&title_color=ff9bce&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mariakhaan&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/mariakhaan">mariakhaan</a></i></p>
